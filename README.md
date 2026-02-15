@@ -64,4 +64,4 @@ Cash on Delivery is widely used, suggesting potential to promote prepaid payment
 - Business insight generation  
 - Data storytelling  
 
-![SuperStore Dashboard](dashboard.png)
+![SuperStore Dashboard](SalesDashboard.png)
